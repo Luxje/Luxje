@@ -4,6 +4,8 @@
 
 I am a passionate developer focused on building robust backend systems and database management. I enjoy solving complex problems using Java and optimizing data flow with MySQL.
 
+I make this account for saving all learning stuff and my project
+
 ---
 
 ### 🛠️ Languages and Tools

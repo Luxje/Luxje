@@ -25,11 +25,19 @@ I am a passionate developer focused on building robust backend systems and datab
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[BinhThenNewBie]&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[BinhThenNewBie]&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-</p>
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=BinhThenNewBie&show_icons=true&theme=dracula&hide_border=true" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinhThenNewBie&theme=dracula&hide_border=true" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinhThenNewBie&layout=compact&theme=dracula&hide_border=true" />
+
+</div>
 ---
 
 ### 📫 Connect with me

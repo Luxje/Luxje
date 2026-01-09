@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bình
+# Hi there! 👋 I'm Bình aka Luxje
 
 ### 👨‍💻 Software Developer from Vietnam 🇻🇳
 
@@ -30,4 +30,4 @@ I am a passionate developer focused on building robust backend systems and datab
 
 ### 📫 Connect with me
 * **Email:** binhdath06811@gmail.com
-* **GitHub:** [BinhThenNewBie](https://github.com/Luxje)
+* **GitHub:** [Luxje](https://github.com/Luxje)

@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm Bình aka Luxje
+# Hi there! 👋 I'm Bình aka Luxje ✨
+✨
+✨
+✨
+✨
+✨
+✨
+✨
+
 
 ### 👨‍💻 Software Developer from Vietnam 🇻🇳
 

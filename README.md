@@ -12,7 +12,7 @@
 
 Road to full-stack
 
-I make this account for saving all learning stuff and my project
+I made this account for saving all learning stuff and my project
 
 ---
 

@@ -12,8 +12,7 @@
 
 Road to full-stack
 
-I made this account for saving all learning stuff and my project
-
+I made this account to save all my learning stuff and my projects
 ---
 
 ### 🛠️ All the stuff I use

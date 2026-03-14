@@ -10,9 +10,8 @@
 
 ### 👨‍💻 Software Developer from Vietnam 🇻🇳
 
-Road to full-stack
+Grinding....
 
-I made this account to save all my learning stuff and projects
 ---
 
 ### 🛠️ All the stuff I use
